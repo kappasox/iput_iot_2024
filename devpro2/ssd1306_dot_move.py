@@ -32,6 +32,13 @@
 # SOFTWARE.
 # 
 
+# You need AdaFruit's library
+# $ pip3 install adafruit-circuitpython-ssd1306
+# .
+# And you have to have mcp3208_mcp3008.py in the same
+# directory.
+
+
 import time
 import datetime
 
