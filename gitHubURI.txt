@@ -1,1 +1,1 @@
-git@github.com:kappasox/iput_iot_2025.git
+git@github.com:kappasox/iput_iot_2024.git
