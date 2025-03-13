@@ -1,0 +1,14 @@
+$ cd 
+$ cd Python/devpro3
+
+$ git checkout --orphan orphan_b
+
+$ git commit -am "Initial Commit"
+
+$ git branch -D main
+
+$ git branch -m main
+
+$ git push -f origin main
+
+$ git push -d develop

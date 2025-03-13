@@ -1,0 +1,32 @@
+# Environments
+venv*
+*/venv*
+*/*/venv*
+*/*/*/venv*
+*/*/*/*/venv*
+.venv
+*/.venv
+*/*/.venv
+*/*/*/.venv
+*/*/*/*/.venv
+env*
+*/env*
+*/*/env*
+*/*/*/env*
+*/*/*/*/env*
+
+# Local Environment Variables
+.env
+*/.env
+*/*/.env
+*/*/*/.env
+*/*/*/*/.env
+
+# Git Examples
+
+# import
+__pycache__
+*/__pycache__
+*/*/__pycache__
+*/*/*/__pycache__
+*/*/*/*/__pycache__
